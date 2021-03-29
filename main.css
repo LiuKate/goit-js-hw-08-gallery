@@ -111,6 +111,7 @@ body {
 }
 
 .lightbox__button {
+  z-index: 999;
   position: absolute;
   top: 8px;
   right: 8px;
